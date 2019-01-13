@@ -23,3 +23,8 @@ json_decode()失败，explode()失败，除了一点点将经纬度截取出来�
 2019/1/12：
 
 1.加入phpemail封装类
+
+2019/1/13：
+
+1.基于uploadify,进行image上传封装类
+2.通过build.php实现自动创建目录
