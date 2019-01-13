@@ -33,3 +33,5 @@ json_decode()失败，explode()失败，除了一点点将经纬度截取出来�
 1.基于uploadify,进行image上传封装类
 
 2.通过build.php实现自动创建目录
+
+3.问题：curl得到的图片结果在chrome显示乱码问题
